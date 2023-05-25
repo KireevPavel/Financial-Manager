@@ -1,0 +1,14 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal " Ñ€ÑƒÐ±." 5 times.(ªÿµøþÿÿÿÿ
+‰
+java:S1319"nThe type of "monthlyReports" should be an interface such as "List" rather than the implementation "ArrayList".(€ÛœÂúÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ìÈ¿£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…°ü’úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø”°šüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( £þ‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÿµøþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀŸ¼ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô³þøüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ü„‚ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÞƒ¶
